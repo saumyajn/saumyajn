@@ -16,7 +16,7 @@ Recently, I've been expanding my full-stack capabilities by diving into Python a
 * **Testing:** Jest, Karma, Selenium
 
 ### ⚡ Outside of Code
-When I'm not untangling complex codebases or optimizing API response times, you can usually find me painting abstract art, hand-knitting chunky blankets, or hanging out with my cat. 
+When I'm not untangling complex codebases or optimizing API response times, you can usually find me painting abstract art, hand-knitting chunky blankets, or in the workout classes! 
 
 📫 **Let's connect:** [https://www.linkedin.com/in/saumyajn/] [https://saumyajain.vercel.app/]
 
