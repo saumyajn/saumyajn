@@ -1,22 +1,63 @@
-# Hi there, I'm Saumya 
+# Hi, I'm Saumya Jain 
 
-I'm a Lead Frontend Engineer and AWS Certified Developer specializing in building high-performance, scalable web architectures. I don't just ship features; I build the foundational component libraries and CI/CD pipelines that empower entire engineering teams. 
+Lead Frontend Engineer and AWS Certified Developer building scalable, high-performance web applications with Angular, React, TypeScript, Node.js, and cloud-native architecture.
 
-Recently, I've been expanding my full-stack capabilities by diving into Python and AI implementation.
+I specialize in creating frontend platforms that help teams move faster — from reusable component libraries and Angular schematics to CI/CD workflows, micro-frontends, and production-ready full-stack applications.
 
-### What I'm working on
-* Architecting enterprise-scale Angular schematic libraries and micro-frontends.
-* Experimenting with real-time NLP and AI integrations (like my recent Turing Shell Protocol build).
-* Designing a new professional portfolio based on an "Infinite Spatial Canvas" concept.
+Currently, I’m exploring AI-powered product experiences through real-time NLP, Python services, and interactive web platforms.
 
-### Tech Stack
-* **Frontend:** Angular (v2-v20), React, Next.js, TypeScript, RxJS, NgRx
-* **Backend:** Node.js, Python, Java
-* **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes
-* **Testing:** Jest, Karma, Selenium
+---
 
-### Outside of Code
-When I'm not untangling complex codebases or optimizing API response times, you can usually find me painting abstract art, hand-knitting chunky blankets, or in the workout classes! 
- **Let's connect:** [https://www.linkedin.com/in/saumyajn/] [https://saumyajain.vercel.app/]
+## What I'm Working On
 
+- Architecting enterprise-scale Angular schematic libraries and micro-frontends
+- Building AI-powered web experiences with real-time chat, NLP, and full-stack integrations
+- Designing a new professional portfolio based on an “Infinite Spatial Canvas” concept
+- Expanding backend and cloud capabilities across Node.js, Python, AWS, and deployment automation
 
+---
+
+## Featured Projects
+
+### Human or Bot
+A real-time social deduction chat platform where users interact with humans or AI and try to identify who they are speaking with.
+
+**Tech:** Angular, Node.js, TypeScript, Python, AI/NLP
+
+### Portfolio App
+A frontend developer portfolio showcasing interactive UI, motion, project work, and modern web design.
+
+**Tech:** JavaScript, React/Angular, UI Animation
+
+### The Last Land
+A strategy dashboard with dynamic player data, troop analysis, and game-stat visualization.
+
+**Tech:** JavaScript, Dashboard UI, Data Visualization
+
+### Arcade Stack
+A modular mini-game portal with score tracking, themes, and reusable frontend architecture.
+
+**Tech:** TypeScript, Component Architecture, Game UI
+
+---
+
+## Tech Stack
+
+**Frontend:** Angular, React, Next.js, TypeScript, JavaScript, RxJS, NgRx, HTML, SCSS  
+**Backend:** Node.js, Express.js, Python, Java, REST APIs  
+**Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, OpenShift  
+**Testing:** Jest, Karma, Jasmine, Selenium  
+**Architecture:** Micro-frontends, Design Systems, CI/CD, Server-Side Rendering
+
+---
+
+## Outside of Code
+
+When I’m not untangling complex codebases or optimizing API response times, you can usually find me painting abstract art, knitting chunky blankets, or recharging in a workout class.
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saumyajn/
+- Portfolio: https://saumyajain.vercel.app/
