@@ -7,6 +7,12 @@ I specialize in creating frontend platforms that help teams move faster — from
 Currently, I’m exploring AI-powered product experiences through real-time NLP, Python services, and interactive web platforms.
 
 ---
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saumyajn/
+- Portfolio: https://saumyajain.vercel.app/
+  
+---
 
 ## What I'm Working On
 
@@ -57,7 +63,4 @@ When I’m not untangling complex codebases or optimizing API response times, yo
 
 ---
 
-## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/saumyajn/
-- Portfolio: https://saumyajain.vercel.app/
